@@ -1,0 +1,31 @@
+p{
+    color:#0407b8d8 ;
+    font-size:20px ;
+    font-family: 'Arial',sans-serif;
+    font-weight: bold ;
+    text-align: center ;
+    text-decoration: underline ;
+    line-height: 1.6 ;
+    border: solid rgba(17, 0, 167, 0.842);
+    background-color: #2392ecb9;
+
+}
+#a{
+    border: solid rgba(161, 0, 167, 0.842);
+    background-color: #e276f0;
+}
+#b{
+    border: solid rgba(161, 0, 167, 0.842);
+    background-color: #e276f094;
+}
+#c{
+    border: solid rgba(219, 8, 106, 0.842);
+    background-color: #e276f07e;
+}
+#d{
+    border: solid rgba(231, 15, 123, 0.603);
+    background-color: #e276f07e;
+}
+body {
+    background-color: rgb(165, 211, 252);
+}
